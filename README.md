@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bennaquin
+- 👋 Hi, I’m @Bennaquin
 - 👀 I’m interested in ... coding and cyber security
 - 🌱 I’m currently learning ... cyberlaw and foundational web development 
 - 💞️ I’m looking to collaborate on ... foundatinal web development 
